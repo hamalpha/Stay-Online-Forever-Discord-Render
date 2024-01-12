@@ -1,7 +1,7 @@
 # Stay-Online-Forever-Discord-Render
 Keep you Discord profile online forever
 1. Register Render - https://render.com/
-2. Copy this link to Render - [https://replit.com/new/github/GorillaGG/Stay-Online-Forever-Discord-Render](https://github.com/GorillaGG/Stay-Online-Forever-Discord-Render/)
+2. Copy this link to Render - https://github.com/GorillaGG/Stay-Online-Forever-Discord-Render/
 3. Get Token of your Discord:
   - Login to your Discord in the browser
   - Press: CTRL+SHITT+I or F12. Go to Network. Click some dialogue or some server
